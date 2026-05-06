@@ -1,0 +1,13 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.bngr.app",
+      "sha256_cert_fingerprints": [
+        "FC:17:12:D6:14:A1:78:84:01:C7:59:24:03:3C:74:3B:9D:55:B7:BA:86:15:64:55:E4:2D:FA:C9:A2:2C:1B:7C",
+        "49:81:8C:0A:E1:44:1B:F7:58:50:4D:FC:E9:3A:A5:2A:62:60:46:AA:B9:C0:16:55:57:E0:35:F3:92:95:86:5F"
+      ]
+    }
+  }
+]
